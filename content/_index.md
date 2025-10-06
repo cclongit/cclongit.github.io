@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: 'Chen Chunlin'
-date: 2025-10-6
+date: 2025-10-06
 type: landing
 
 design:

@@ -23,11 +23,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergraduate student at School of Economics, Peking University
+role: Undergraduate student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: School of Economics
+  - name: the School of Economics, Peking University
     url: https://econ.pku.edu.cn/
 
 # Social network links

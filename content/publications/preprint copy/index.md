@@ -1,4 +1,18 @@
 ---
+math: true  # 如果框架支持 Front Matter 配置
+---
+
+<!-- 或在 Markdown 中直接插入 HTML -->
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+  }
+};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" async></script>
+---
 title: "环境经济学视角下中国稀土资源动态配置机理与优化路径研究"
 authors:
 - admin
@@ -16,10 +30,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: From the perspective of environmental economics, this study focuses on the dynamic optimization of intertemporal allocation of China's rare earth resources. Addressing core contradictions including structural imbalances in production and pricing, environmental externalities, and strategic value depreciation, it innovatively constructs a discount model for dynamic resource allocation (NPV-Model). Breaking through traditional static analytical frameworks, this model incorporates temporal dynamics, environmental value factors, and strategic value factors into allocation decision-making, revealing the rationality and necessity of delayed exploitation. Empirical analysis using USGS data examines China's current rare earth resource allocation patterns. Finally, policy recommendations for optimizing China's rare earth resource allocation are proposed based on economic principles.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ""
 
 tags:
 - Environmental Economics

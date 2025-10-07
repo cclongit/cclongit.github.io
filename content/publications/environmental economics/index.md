@@ -12,10 +12,10 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2025-05-06T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2030-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -45,7 +45,7 @@ hugoblox:
 # Custom links
 links:
   - type: pdf
-    url: "conference-paper.pdf"
+    url: "环境经济学视角下中国稀土资源动态配置机理与优化路径研究.陈春霖.pdf"
     name: download the pdf here
     icon: file-pdf
 
@@ -73,11 +73,10 @@ slides: ""
 ---
 
 > [!NOTE]
-> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+> This is a working paper which needs further improvement.
 
 > [!NOTE]
-> Create your slides in Markdown - click the _Slides_ button to check out the example.
+> You can download the pdf document under the title.(click the PDF BUTTON or the name DOWNLOAD THE PDF HERE)
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
 
-## You can download the pdf document under the title

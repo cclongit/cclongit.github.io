@@ -10,19 +10,18 @@ main:
   - name: Experience
     url: experience/
     weight: 11
-  #   先注释掉，后续有需要再去补回来。教程在官网都有
   - name: Papers
     url: /#papers
     weight: 12
-  # - name: Talks
-  #   url: /#talks
-  #   weight: 12
-  # - name: News
-  #   url: /#news
-  #   weight: 13
-  # - name: Projects
-  #   url: projects/
-  #   weight: 30
-  # - name: Courses
-  #   url: courses/
-  #   weight: 40
+  - name: Talks
+    url: /#talks
+    weight: 12
+  - name: News
+    url: /#news
+    weight: 13
+  - name: Projects
+    url: projects/
+    weight: 30
+  - name: Courses
+    url: courses/
+    weight: 40

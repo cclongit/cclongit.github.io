@@ -1,17 +1,16 @@
 ---
-title: 'An example conference paper'
+title: '环境经济学视角下中国稀土资源动态配置机理与优化路径研究​'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 date: '2013-07-01T00:00:00Z'
 
@@ -21,19 +20,19 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['working paper']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: ""
+publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 本文基于环境经济学视角，聚焦中国稀土资源跨期配置的动态优化问题，针对稀土资源产量和价格的结构性失衡、环境外部性及战略价值折损等核心矛盾，创新性地构建了稀土资源动态配置的折现模型NPV-Model。本模型突破传统静态分析框架，将时间动态性、环境价值因子、战略价值因子纳入配置决策模型，揭示了延后开采的合理性和必要性。并且基于模型结论和美国地质调查局USGS的实证数据分析了我国目前的稀土资源配置情况，最后结合经济学思想对中国稀土资源配置的优化路径提出了相关建议。
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ""
 
 tags:
-  - Large Language Models
+  - Environmental Economics
 
 # Display this page in the Featured widget?
 featured: true
@@ -46,17 +45,9 @@ hugoblox:
 # Custom links
 links:
   - type: pdf
-    url: ""
-  - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: dataset
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: video
-    url: https://youtube.com
+    url: "conference-paper.pdf"
+    name: download the pdf here
+    icon: file-pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -88,3 +79,5 @@ slides: ""
 > Create your slides in Markdown - click the _Slides_ button to check out the example.
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
+## You can download the pdf document under the title

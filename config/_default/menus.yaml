@@ -9,11 +9,11 @@ main:
     weight: 10
   - name: Experience
     url: experience/
+    weight: 11
   #   先注释掉，后续有需要再去补回来。教程在官网都有
-  #   weight: 11
-  # - name: Papers
-  #   url: /#papers
-  #   weight: 12
+  - name: Papers
+    url: /#papers
+    weight: 12
   # - name: Talks
   #   url: /#talks
   #   weight: 12

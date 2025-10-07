@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 😍
 
 # Is this the primary user of the site?
 superuser: true
@@ -47,12 +47,32 @@ interests:
   - AI programming
 
 education:
+  - area: pupil
+    institution: Haikou Yingcai School, Hainan Province
+    date_start: 2012-09-01
+    date_end: 2018-06-30
+    summary: |
+      The start of studying(maybe at that time I was playing more).
+  - area: junior
+    institution: Haikou 4th Middle School, Hainan Province
+    date_start: 2018-09-01
+    date_end: 2021-06-30
+    summary: |
+      A happy place to study which I still remember today.
+  - area: senior
+    institution: Hainan Middle school
+    date_start: 2024-09-01
+    date_end: 2028-06-30
+    summary: |
+      It is the best school in Hainan Province with open environment and outstanding teachers&students.
+      When people are asked which school is better for themselves, they only get two answers:1.Hainan Middle 
+      School is the best.2.You should find one to suit your self.hhhhhh 
   - area: Fintech
     institution: Peking University
     date_start: 2024-09-01
     date_end: 2028-06-30
     summary: |
-      Something important in my life.
+      Something important in my life. Hope I can graduate! 
 
 
 # Skills
@@ -93,7 +113,7 @@ languages:
   - name: Chinese
     percent: 100
   - name: English
-    percent: 60
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -109,7 +129,7 @@ awards:
 
 ---
 
-I am an undergraduate student at the School of Economics, Peking University, majoring in economics. My academic interests focus on the intersection of economics, finance, and technology, especially in the emerging field of financial technology. Beyond academics, I enjoy reading, sports and music.
+I am an undergraduate student at the School of Economics, Peking University. My academic interests focus on the intersection of economics, finance, and technology, especially in the emerging field of financial technology. Beyond academics, I enjoy reading, sports and music.
 
 Throughout my undergraduate years, I have been fortunate to receive some valuable prizes and awards. For instance, I was the “Star of Organization” during the orientation camp for freshman. In addition, I was one of the most excellent students in our class. Last October, I won the championship of shuttlecock at the sports meeting, which showed my determination and perseverance.
 
